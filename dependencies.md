@@ -1,5 +1,5 @@
 # Google Apps Script Project: bmSimpleCrypto
-This repo (bmSimpleCrypto) was automatically updated on 1/13/2022, 11:41:00 AM by GasGit
+This repo (bmSimpleCrypto) was automatically updated on 1/19/2022, 4:17:11 PM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -17,14 +17,16 @@ The shared link for [bmSimpleCrypto is here](https://script.google.com/d/1-QSJlF
 --- | --- 
 appsscript| json
 GasCrypt| server_js
+Trackmyself| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-xbmSimpleCrypto| xbmSimpleCrypto|18h1kkfZZJPbJUz9djH6RcpBUgUIG6UKeqO2g_rUPAiOVswMP6vsjlqaN|1|no|no
+bmLibraryReporter| bmLibraryReporter|1D_lWK-jU53wxMA2-NxSjiyu7Uze_GDDqBKTsQnCgPhyUmmSLv0bfTNPX|8|no|[here](libraries/bmLibraryReporter "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-xbmSimpleCrypto| xbmSimpleCrypto|18h1kkfZZJPbJUz9djH6RcpBUgUIG6UKeqO2g_rUPAiOVswMP6vsjlqaN|1|no|no
+bmLibraryReporter| bmLibraryReporter|1D_lWK-jU53wxMA2-NxSjiyu7Uze_GDDqBKTsQnCgPhyUmmSLv0bfTNPX|8|no|[here](libraries/bmLibraryReporter "library source")
+bmLibraryTracking| bmLibraryTracking|1GIpX-loeYv2swfT2mcYCUvduAXtoYdzenzIYXt4M_1YLmlN7eMrO1h_P|3|no|[here](libraries/bmLibraryTracking "library source")
 ### Enabled Google Services
 no libraries discovered
 ### Scopes required
